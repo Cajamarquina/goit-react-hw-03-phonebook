@@ -1,8 +1,8 @@
 {
   "name": "react-homework-template",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "https://cajamarquina.github.io/goit-react-hw-02-phonebook/",
+  "private": true,
+  "homepage": "https://cajamarquina.github.io/goit-react-hw-03-phonebook/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
